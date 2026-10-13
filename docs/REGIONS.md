@@ -8,6 +8,12 @@ The calculator scores **regional district**, with two choices: Metro Vancouver, 
 
 The site also describes a policy target: **at least 35%** of nominations outside Metro Vancouver. That target is context. It is not a sixth scoring factor.
 
+### Regions preview
+
+| Regions |
+| :---: |
+| [![Regions](../assets/regions-grid.png)](https://bcpnp.getnorthpath.com/regions) |
+
 | Page | Inside or outside Metro on the site | Region points in the calculator |
 | --- | --- | --- |
 | [Metro Vancouver](https://bcpnp.getnorthpath.com/regions/metro-vancouver) | Inside | 0 |

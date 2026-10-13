@@ -9,6 +9,12 @@ The methodology page splits factors into two labels:
 
 Grid in force since **4 December 2025**. Categories restructured **23 April 2026**. Total **200**. **Age is not scored.**
 
+### Scoring preview
+
+| Scoring |
+| :---: |
+| [![Scoring model](../assets/scoring-grid.png)](https://bcpnp.getnorthpath.com/methodology) |
+
 ---
 
 ## Verified outline

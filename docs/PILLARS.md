@@ -2,6 +2,12 @@
 
 Since **23 April 2026**, the site describes Skills Immigration as three pillars. Category is chosen on the calculator before the score. Hub: [bcpnp.getnorthpath.com/pillars](https://bcpnp.getnorthpath.com/pillars). Explainer: [guide/care-build-innovate](https://bcpnp.getnorthpath.com/guide/care-build-innovate).
 
+### Pillars preview
+
+| Pillars |
+| :---: |
+| [![Pillars](../assets/pillars-grid.png)](https://bcpnp.getnorthpath.com/pillars) |
+
 The homepage cards:
 
 | Pillar | Card line |

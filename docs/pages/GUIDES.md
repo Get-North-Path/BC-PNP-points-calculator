@@ -6,6 +6,12 @@ Hub title: **BC PNP guides, step by step.**
 
 Plain-language explainers for Skills Immigration: how the program works, what Care / Build / Innovate mean, how every SIRS factor is scored, and which documents to prepare. The hub offers “Run the calculator” and then links onward to tools, pillars, and the FAQ.
 
+### Guides preview
+
+| Guides |
+| :---: |
+| [![Guides hub](../../assets/guides-hub.png)](https://bcpnp.getnorthpath.com/guide) |
+
 ---
 
 ## Guides on the hub

@@ -8,6 +8,12 @@ The direct answer covers the **4 December 2025** grid, the **23 April 2026** pil
 
 The page says the table is milestone rounds, not every weekly draw. The full waypoint table and the category range table are in [DRAWS.md](../DRAWS.md).
 
+### Draws preview
+
+| Draws |
+| :---: |
+| [![2026 draws](../../assets/draws-grid.png)](https://bcpnp.getnorthpath.com/draws) |
+
 ---
 
 ## How it connects to the calculator

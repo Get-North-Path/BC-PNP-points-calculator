@@ -2,7 +2,11 @@
 
 Three tools on [bcpnp.getnorthpath.com/tools](https://bcpnp.getnorthpath.com/tools). The hub title is “BC PNP tools that answer one question each.” Each tool is meant to be carried back into the SIRS calculator.
 
-Screenshot: [assets/tools-hub.png](../assets/tools-hub.png)
+### Tools preview
+
+| Tools |
+| :---: |
+| [![Tools hub](../assets/tools-hub.png)](https://bcpnp.getnorthpath.com/tools) |
 
 ---
 

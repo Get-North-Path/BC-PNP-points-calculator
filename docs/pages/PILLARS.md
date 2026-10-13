@@ -6,6 +6,12 @@ Hub title: **Care, Build, and Innovate.**
 
 Since April 2026, the site classifies every Skills Immigration candidate into one of three pillars. The hub says to pick one to see categories, 2026 score ranges, and how to score a profile.
 
+### Pillars preview
+
+| Pillars |
+| :---: |
+| [![Pillars](../../assets/pillars-grid.png)](https://bcpnp.getnorthpath.com/pillars) |
+
 ---
 
 ## Pillars on the hub

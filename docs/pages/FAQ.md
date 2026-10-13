@@ -6,6 +6,12 @@ Page title: *BC PNP FAQ: Category Scores, Wage Route & 2026 Rules*. Heading: **Q
 
 The homepage “Quick answers” block repeats four of these themes (cut-off, tech stream, age, inflating a wage) and links here.
 
+### FAQ preview
+
+| FAQ |
+| :---: |
+| [![FAQ](../../assets/faq-grid.png)](https://bcpnp.getnorthpath.com/faq) |
+
 ---
 
 ## Questions on the page

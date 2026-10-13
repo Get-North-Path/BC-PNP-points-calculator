@@ -6,6 +6,12 @@ Live: [bcpnp.getnorthpath.com](https://bcpnp.getnorthpath.com/)
 
 It is a **focused product**: a calculator, three companion tools, guides, pillar pages, five occupation examples, four region pages, an FAQ, a draw history, and a methodology page. It is **not** a full immigration case-management system, and it does not file a SIRS registration. Broader Canadian immigration tools live on [getnorthpath.com](https://www.getnorthpath.com). See [ABOUT.md](../ABOUT.md).
 
+### Product preview
+
+| Product |
+| :---: |
+| [![Product](../assets/product-grid.png)](https://bcpnp.getnorthpath.com/) |
+
 ---
 
 ## Problem it addresses

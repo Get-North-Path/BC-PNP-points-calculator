@@ -8,6 +8,12 @@ Checked on **12 October 2026**. The page’s own scope is milestone rounds and s
 
 Direct answer on the page: the SIRS grid took effect **4 December 2025**; pillars landed on **23 April 2026**; through 20 August 2026, roughly **4,961** invitations had gone out toward a **5,254** nomination allocation, at minimums from **50 to 138**.
 
+### Draws preview
+
+| Draws |
+| :---: |
+| [![2026 draws](../assets/draws-grid.png)](https://bcpnp.getnorthpath.com/draws) |
+
 ---
 
 ## Waypoints published on the page

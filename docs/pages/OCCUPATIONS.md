@@ -6,6 +6,12 @@ Hub title: **Priority occupations and how BC classifies them.**
 
 Worked examples under Care, Build, and Innovate: typical TEER, category placement, and 2026 score context. The page says to verify them against WelcomeBC.
 
+### Occupations preview
+
+| Occupations |
+| :---: |
+| [![Occupations](../../assets/occupations-grid.png)](https://bcpnp.getnorthpath.com/occupations) |
+
 ---
 
 ## Occupations on the hub

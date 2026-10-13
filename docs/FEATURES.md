@@ -4,6 +4,12 @@ Inventory checked against the live site, [sitemap.xml](https://bcpnp.getnorthpat
 
 English paths are listed below. Each one also exists in French at `/fr` plus the same path (**56** sitemap URLs in total).
 
+### Features preview
+
+| Features |
+| :---: |
+| [![Features](../assets/features-grid.png)](https://bcpnp.getnorthpath.com/) |
+
 ---
 
 ## Calculator

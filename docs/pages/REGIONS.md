@@ -6,6 +6,12 @@ Hub title: **Where you work changes your SIRS points.**
 
 The page covers Metro Vancouver, outside Metro Vancouver, the Interior, and Vancouver Island, plus the target of at least 35% of nominations outside Metro Vancouver.
 
+### Regions preview
+
+| Regions |
+| :---: |
+| [![Regions](../../assets/regions-grid.png)](https://bcpnp.getnorthpath.com/regions) |
+
 ---
 
 ## Regions on the hub
